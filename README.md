@@ -1,4 +1,4 @@
-# Hi, I'm Raffael 👋
+# Hi, I'm Marcos Raffael 👋
 
 I'm a 22-year-old Computer Engineer and teacher at [IEMA](https://iema.ma.gov.br/), software development enthusiast. I work with SQL, C#, Python, Java, HTML, CSS, and JavaScript.
 
