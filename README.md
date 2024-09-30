@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Raffael 👋
 
-<!--
-**raffael180/raffael180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old Computer Engineer and teacher at [IEMA](https://iema.edu.br), software development enthusiast. I work with SQL, C#, Python, Java, HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: SQL, C#, Python, Java, HTML, CSS, JavaScript
+- **Tools**: .NET, Django, React, MySQL, PostgreSQL, SQL Server
+
+## Contact
+- Contact me on my linkedin:
+- [LinkedIn](https://www.linkedin.com/in/marcos-raffael/)
+- Email: rafa-luc@hotmail.com
