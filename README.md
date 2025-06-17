@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi I'm Marcos Raffael
 
-<!--
-**raffael180/raffael180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Master's Student at UFMA.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4EA1F2?style=for-the-badge)](https://linkedin.com/in/marcos-raffael/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Machine Learning, Computer Vision, and Natural Language Processing enthusiast.
+
+- **Languages**: SQL, C#, Python, Java, HTML, CSS, JavaScript
+
+- **Tools**: .NET, Django, React, MySQL, PostgreSQL, SQL Server
